@@ -1,7 +1,5 @@
 # AutoDocs2.0
 
-readme_content = """# 🚀 AutoDocs
-
 > **SaaS B2B para Automação de Contratos e Gestão Inteligente de Estoque** para Lojas de Veículos e Imobiliárias.
 
 O **AutoDocs** é uma solução desenvolvida para otimizar, acelerar e garantir segurança jurídica no processo de vendas de ativos de alto valor (como automóveis e imóveis). Ele une a gestão do ciclo de vida do inventário à geração instantânea e dinâmica de contratos complexos, eliminando processos manuais, reduzindo o tempo de fechamento e evitando erros operacionais.
